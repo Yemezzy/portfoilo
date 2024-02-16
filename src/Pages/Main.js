@@ -47,10 +47,10 @@ const Main = () => {
         <div className="flex mt-10 ">
           <div className={color}>
             <section className=" p-2 text-3xl">
-              <a href="">
+              <a href="https://t.me/lucasdeigo">
                 <FaTelegram className="mb-9" />
               </a>
-              <a href="">
+              <a href="https://t.me/lucasdeigo">
                 {" "}
                 <FaInstagram className="mb-9" />
               </a>
@@ -237,10 +237,10 @@ const Main = () => {
                   <FaGripLinesVertical />
                   <FaGripLinesVertical className="mb-9" />
                 </div>
-                <a href="">
+                <a href="https://t.me/lucasdeigo">
                   <FaTelegram className="mb-9" />
                 </a>
-                <a href="">
+                <a href="https://t.me/lucasdeigo">
                   <FaInstagram className="mb-9" />
                 </a>
                 <a href="">
