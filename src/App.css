@@ -1,38 +1,84 @@
-.App {
-  text-align: center;
+.ff{
+    list-style: decimal;
+}
+.logo{
+text-align: center;
+background-color: #cacedb;
+color: black;
+padding: 15px;
+font-weight: bold;
+position: fixed;
+left: 50%;
+border-radius: 50% 50%;
+}
+.yellow{
+    text-align: center;
+background-color: #FDE047;
+color: black;
+padding: 15px;
+font-weight: bold;
+position: fixed;
+left: 50%;
+border-radius: 50% 50%;
+}
+.def{
+    width: 4%;
+    position: fixed;
+}
+.cha{
+    width: 4%;
+    position: fixed;
+    color: #FDE047;
+    transition: all;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.coll{
+    color: #FDE047;
+    transition: all;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.gr{
+text-align: center;
+color: black;
+padding: 15px;
+font-weight: bold;
+position: fixed;
+left: 50%;
+border-radius: 50% 50%;
+    background-color: #22C55E;
+}
+.gre{
+     color: #22C55E;
+    transition: all;
+}
+.gree{
+        width: 4%;
+    position: fixed;
+    color: #22C55E;
+    transition: all;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.aa{
+    background-image: url(/public/chinese.jpeg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
-
-.App-link {
-  color: #61dafb;
+.bb{
+    background-image: url(/public/pinterest.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.cc{
+    background-image: url(/public/grain.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.dd{
+    background-image: url(/public/konna.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
