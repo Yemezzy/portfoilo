@@ -37,7 +37,7 @@ const Main = () => {
 
   return (
     <>
-      <div className="py-10 px-5 w-full">
+      <div className="py-10 md:px-5 w-full">
         <p className={navbar}>
           <marquee behavior="" direction="right">
             Logo
