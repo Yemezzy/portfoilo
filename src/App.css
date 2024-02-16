@@ -64,13 +64,13 @@ border-radius: 50% 50%;
     background-size: contain;
     background-repeat: no-repeat;
 }
-.bb{
+.cc{
     background-image: url(/public/pinterest.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
-.cc{
+.bb{
     background-image: url(/public/grain.png);
     background-position: center;
     background-size: contain;
@@ -78,6 +78,12 @@ border-radius: 50% 50%;
 }
 .dd{
     background-image: url(/public/konna.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.ee{
+     background-image: url(/public/portfoilo.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;

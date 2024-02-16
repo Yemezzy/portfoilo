@@ -44,7 +44,7 @@ const Main = () => {
           </marquee>
         </p>
 
-        <div className="flex mt-10">
+        <div className="flex mt-10 ">
           <div className={color}>
             <section className=" p-2 text-3xl">
               <a href="">
@@ -70,7 +70,7 @@ const Main = () => {
             </section>
           </div>
 
-          <div className="md:w-[92%] md:px-20 ml-10">
+          <div className="md:w-[92%] md:px-20  md:ml-10 ml-8">
             <div className="md:flex pt-10 md:pt-5 gap-2 justify-center">
               <section className=" h-[310px] p-2 w-full">
                 <p className="md:text-4xl font-bold md:mt-28 mt-10 md:text-left text-2xl text-center">
@@ -99,10 +99,10 @@ const Main = () => {
                   </a>
                 </section>
 
-                <section className="text-center pt-14 bb h-[150px] w-full">
+                <section className="text-center  pt-14 bb h-[150px] w-full">
                   <a
-                    href="https://reactjs-sepia-one.vercel.app/"
-                    className="text-gray-300 hover:text-xl underline font-bold"
+                    href="https://investors-grain.vercel.app/ "
+                    className="text-black hover:text-xl underline font-bold"
                   >
                     Click Here to view <br /> this Website..
                   </a>
@@ -112,7 +112,7 @@ const Main = () => {
             <div className="md:grid grid-cols-3 hidden mt-2 gap-2">
               <section className="pt-14 text-center h-[150px] w-full cc">
                 <a
-                  href="https://investors-grain.vercel.app/"
+                  href="https://reactjs-sepia-one.vercel.app/"
                   className="text-black text-lg hover:text-xl underline font-bold"
                 >
                   Click Here to view <br /> this Website..
@@ -126,9 +126,9 @@ const Main = () => {
                   Click Here to view <br /> this Website..
                 </a>
               </section>
-              <section className="border-2 pt-14 text-center h-[150px] w-full">
+              <section className="border-2 pt-14 ee text-center h-[150px] w-full">
                 <a
-                  href="https://konga-mu.vercel.app/"
+                  href="https://portfoilo-lovat.vercel.app/"
                   className="text-black text-lg hover:text-xl underline font-bold"
                 >
                   Click Here to view <br /> this Website..
