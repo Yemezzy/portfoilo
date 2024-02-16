@@ -70,7 +70,7 @@ const Main = () => {
             </section>
           </div>
 
-          <div className="md:w-[92%] md:px-20  md:ml-10 ml-8">
+          <div className="md:w-[92%] md:px-20  md:ml-10 mx-5 md:mx-0">
             <div className="md:flex pt-10 md:pt-5 gap-2 justify-center">
               <section className=" h-[310px] p-2 w-full">
                 <p className="md:text-4xl font-bold md:mt-28 mt-10 md:text-left text-2xl text-center">
